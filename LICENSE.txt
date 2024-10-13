@@ -1,0 +1,45 @@
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+### Section 1 – Definitions.
+
+- **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+- **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all copyright and similar rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+- **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
+- **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation.
+- **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public, including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+- **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+
+### Section 2 – Scope.
+
+1. **License grant**:
+   - Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+     - reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+     - produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+   - Exceptions and limitations:
+     - This Public License does not grant You any rights other than the rights expressly granted in Section 2(a).
+
+2. **Attribution**:
+   - If You Share the Licensed Material (including in modified form), You must provide proper attribution to the Licensor, including:
+     - The name of the creator;
+     - A link to the original material (if applicable);
+     - A reference to this Creative Commons Attribution-NonCommercial 4.0 License.
+
+### Section 3 – No additional restrictions.
+
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+### Section 4 – Termination.
+
+This license and the rights granted to You will terminate automatically upon any breach by You of the terms of this License. However, individuals or entities who have received Adapted Material or Licensed Material from You under this License will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses.
+
+### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+To the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other.
+
+### Section 6 – Miscellaneous.
+
+- This Public License does not and will not be interpreted to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided under copyright law.
+
+For further details on this license, visit https://creativecommons.org/licenses/by-nc/4.0/
